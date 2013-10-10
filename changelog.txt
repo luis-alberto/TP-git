@@ -1,0 +1,23 @@
+commit 9e643a3b02ea1fe9a19f0dfe460f8ee0c48896d0
+Author: Luis Alberto Pacheco <albertop182@gmail.com>
+Date:   Thu Oct 10 14:57:45 2013 +0200
+
+    display copyright
+
+commit 2c3a1b0044c148b7f27414c36e8198c9582fcbb4
+Author: Luis Alberto Pacheco <albertop182@gmail.com>
+Date:   Thu Oct 10 14:35:26 2013 +0200
+
+    Add file header
+
+commit eb121650ccdab94d09a9836e18379d4ce3706df6
+Author: Luis Alberto Pacheco <albertop182@gmail.com>
+Date:   Thu Oct 10 14:33:37 2013 +0200
+
+    Add build time
+
+commit a56d5fecd5d2510531ed7cc1439ef651c9c96fb6
+Author: Luis Alberto Pacheco <albertop182@gmail.com>
+Date:   Thu Oct 10 14:30:19 2013 +0200
+
+    Initial commit
