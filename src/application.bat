@@ -1,5 +1,5 @@
-### Application.bash - 201x - votre nom ###
+### Application.bash - 2013 - PACHECO ###
 
-echo"Copyright Company - 201x"
+echo"Copyright Company - 2013 - IMIE"
 echo "Build: 10:00"
-echo "version 1.1"
+echo "version 1.2"
